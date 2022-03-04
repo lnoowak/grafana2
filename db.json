@@ -1,0 +1,34 @@
+{"name":{"chart":"Pob\u00f3r 03.03.2022","OZE":"Oddanie 03.03.2022"},"dane":{"chart":{"1":{"EC":"0.25","Date":"2022-03-03","Hour":"1","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a
+ doba","Taryfa":"G11"},"2":{"EC":"0.236","Date":"2022-03-03","Hour":"2","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"3":{"EC":"0.243","Date":"2022-03-03","
+Hour":"3","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"4":{"EC":"0.301","Date":"2022-03-03","Hour":"4","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u
+0142a doba","Taryfa":"G11"},"5":{"EC":"0.277","Date":"2022-03-03","Hour":"5","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"6":{"EC":"0.349","Date":"2022-03-
+03","Hour":"6","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"7":{"EC":"0.261","Date":"2022-03-03","Hour":"7","Status":"0","Extra":"N","Zone":"1","ZoneName":
+"Ca\u0142a doba","Taryfa":"G11"},"8":{"EC":"1.052","Date":"2022-03-03","Hour":"8","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"9":{"EC":"0.318","Date":"202
+2-03-03","Hour":"9","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"10":{"EC":"0.174","Date":"2022-03-03","Hour":"10","Status":"0","Extra":"N","Zone":"1","Zon
+eName":"Ca\u0142a doba","Taryfa":"G11"},"11":{"EC":"0.19","Date":"2022-03-03","Hour":"11","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"12":{"EC":"0.045","D
+ate":"2022-03-03","Hour":"12","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"13":{"EC":"0.072","Date":"2022-03-03","Hour":"13","Status":"0","Extra":"N","Zone
+":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"14":{"EC":"0.008","Date":"2022-03-03","Hour":"14","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"15":{"EC"
+:"0.719","Date":"2022-03-03","Hour":"15","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"16":{"EC":"0.15","Date":"2022-03-03","Hour":"16","Status":"0","Extra"
+:"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"17":{"EC":"0.584","Date":"2022-03-03","Hour":"17","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},
+"18":{"EC":"0.661","Date":"2022-03-03","Hour":"18","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"19":{"EC":"0.625","Date":"2022-03-03","Hour":"19","Status":
+"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"20":{"EC":"0.711","Date":"2022-03-03","Hour":"20","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Tary
+fa":"G11"},"21":{"EC":"0.68","Date":"2022-03-03","Hour":"21","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"22":{"EC":"0.787","Date":"2022-03-03","Hour":"22"
+,"Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"},"23":{"EC":"0.204","Date":"2022-03-03","Hour":"23","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a d
+oba","Taryfa":"G11"},"24":{"EC":"0.264","Date":"2022-03-03","Hour":"24","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba","Taryfa":"G11"}},"zone":[],"zoneN":0,"other":[],"OZE":{
+"1":{"EC":"0","Date":"2022-03-03","Hour":"1","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"2":{"EC":"0","Date":"2022-03-03","Hour":"2","Status":"0","Extra":"N","Zone":"1",
+"ZoneName":"Ca\u0142a doba"},"3":{"EC":"0","Date":"2022-03-03","Hour":"3","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"4":{"EC":"0","Date":"2022-03-03","Hour":"4","Status
+":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"5":{"EC":"0","Date":"2022-03-03","Hour":"5","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"6":{"EC":"0","Date":"2
+022-03-03","Hour":"6","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"7":{"EC":"0.005","Date":"2022-03-03","Hour":"7","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u014
+2a doba"},"8":{"EC":"0.051","Date":"2022-03-03","Hour":"8","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"9":{"EC":"1.295","Date":"2022-03-03","Hour":"9","Status":"0","Extr
+a":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"10":{"EC":"2.31","Date":"2022-03-03","Hour":"10","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"11":{"EC":"2.749","Date":"20
+22-03-03","Hour":"11","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"12":{"EC":"3.267","Date":"2022-03-03","Hour":"12","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0
+142a doba"},"13":{"EC":"3.643","Date":"2022-03-03","Hour":"13","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"14":{"EC":"1.693","Date":"2022-03-03","Hour":"14","Status":"0"
+,"Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"15":{"EC":"1.25","Date":"2022-03-03","Hour":"15","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"16":{"EC":"1.327","Dat
+e":"2022-03-03","Hour":"16","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"17":{"EC":"0.062","Date":"2022-03-03","Hour":"17","Status":"0","Extra":"N","Zone":"1","ZoneName":
+"Ca\u0142a doba"},"18":{"EC":"0","Date":"2022-03-03","Hour":"18","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"19":{"EC":"0","Date":"2022-03-03","Hour":"19","Status":"0","
+Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"20":{"EC":"0","Date":"2022-03-03","Hour":"20","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"21":{"EC":"0","Date":"2022-
+03-03","Hour":"21","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"22":{"EC":"0","Date":"2022-03-03","Hour":"22","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a do
+ba"},"23":{"EC":"0","Date":"2022-03-03","Hour":"23","Status":"0","Extra":"N","Zone":"1","ZoneName":"Ca\u0142a doba"},"24":{"EC":"0","Date":"2022-03-03","Hour":"24","Status":"0","Extra":"N","Z
+one":"1","ZoneName":"Ca\u0142a doba"}},"myAverage":[],"weather":[],"cloudiness":[]},"sum":9.161000000000001,"sumOther":0,"sumMyAverage":0,"avgMyAverageValue":0,"OZEValue":17.651999999999997,"
+sLastReadOZE":"Stan licznika na dzie\u0144: <dd class=\"scale\">000000<\/dd>","sumTarget":0,"pie":[],"TargetValue":0,"TargetRange":0,"legend":"","countTarif":1,"sCompareTable":"","isFull":tru
+e,"isFullOther":true,"average":0.382,"predict":0,"averageOther":0,"averageOZE":0.736,"predictOZE":0,"ok":1}
